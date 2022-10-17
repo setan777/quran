@@ -49,7 +49,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Al-Quran Online Terjemahan dan Tafsir Ayat | Maos Quran</title>
+        <title>Al-Quran Online Terjemahan dan Tafsir Ayat | Al Quran</title>
         <meta
           name="keywords"
           content="Al-Quran Online, Baca Al-Quran. Al-Quran beserta terjemahan dan tafsir, Juz Amma, Doa Harian, Asmaul Husna, Wirid, Doa Tahlil"
