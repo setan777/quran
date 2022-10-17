@@ -1,5 +1,5 @@
 {
-  "name": "quran-app",
+  "name": "quran",
   "private": true,
   "scripts": {
     "dev": "next dev",
