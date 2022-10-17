@@ -1,6 +1,6 @@
 {
   "homepage": "https://adbintan666.my.id/quran",
-  "name": "quran",
+  "name": "quran-app",
   "private": true,
   "scripts": {
     "dev": "next dev",
